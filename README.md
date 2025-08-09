@@ -71,10 +71,14 @@ Predictions saved as predicted_hotspots.csv for further GIS mapping.
 
 ## ArcGIS Pro Kernel Density Map:
 <img width="594" height="516" alt="image" src="https://github.com/user-attachments/assets/e377f1da-6902-41e8-a6bf-f9ee30a9da22" />
+<img width="202" height="212" alt="image" src="https://github.com/user-attachments/assets/483a6a1f-6633-4ba8-9eae-fe8859b93adb" />
+
 
 
 ## ArcGIS Pro Getis Ord (Hotspot Analysis) Map:
 <img width="665" height="596" alt="image" src="https://github.com/user-attachments/assets/a6cf0a57-3d33-4363-962c-2b8b83bf08a4" />
+<img width="258" height="161" alt="image" src="https://github.com/user-attachments/assets/0f11b1b4-459e-45a0-9ec7-f24519a7d7bc" />
+
 
 
 ## ArcGIS Pro Kriging Map:
@@ -108,9 +112,17 @@ Import predicted_hotspots.csv into ArcGIS Pro for spatial mapping.
 
 ## What is avaliable in this repository:
 -Report
+
+
 -Jupyter Notebook (.ipynb)
+
+
 -ArcGIS Pro Project File
+
+
 -Presentation
+
+
 -Predicted hotspot csv
 
 ## 📜 License
