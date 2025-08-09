@@ -117,7 +117,9 @@ Import predicted_hotspots.csv into ArcGIS Pro for spatial mapping.
 -Jupyter Notebook (.ipynb)
 
 
--ArcGIS Pro Project File
+-ArcGIS Pro Project File (Due to large file size it can be found on google drive)
+
+LINK: https://drive.google.com/file/d/1VtkEbOVEY51ZNVSCl0gfKqhT3XwFbJUu/view?usp=sharing
 
 
 -Presentation
