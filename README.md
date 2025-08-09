@@ -106,5 +106,12 @@ Import predicted_hotspots.csv into ArcGIS Pro for spatial mapping.
 
 -Add socio-economic and demographic layers for multi-factor analysis.
 
+## What is avaliable in this repository:
+-Report
+-Jupyter Notebook (.ipynb)
+-ArcGIS Pro Project File
+-Presentation
+-Predicted hotspot csv
+
 ## 📜 License
 MIT License – Free to use, adapt, and share.
